@@ -9,7 +9,7 @@ Building web applications, REST APIs, and practical software solutions.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Development;Backend+%26+API+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasGScenna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicoscenna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoscenna)
 
 </div>
 
