@@ -8,8 +8,8 @@ Building web applications, REST APIs, and practical software solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Development;Backend+%26+API+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasGScenna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicoscenna)
 
 </div>
 
@@ -74,9 +74,9 @@ A web platform designed to simplify property discovery and rental management.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NicolasGScenna&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGScenna&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
